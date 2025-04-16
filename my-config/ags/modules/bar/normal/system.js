@@ -106,7 +106,7 @@ const BarBattery = () => Box({
         Label({
             className: 'txt-smallie',
             setup: (self) => self.hook(Battery, label => {
-                label.label = `${Number.parseFloat(Battery.percent.toFixed(1))}%`;
+                label.label = `${Number.parseFloat(Battery.percent.toFixed(0))}%`;
             }),
         }),
         Overlay({

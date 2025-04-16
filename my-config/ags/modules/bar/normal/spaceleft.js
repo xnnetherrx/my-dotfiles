@@ -22,7 +22,7 @@ const WindowTitle = async () => {
                     // These two lines were removed.
                     Widget.Label({
                         xalign: 0,
-                        label: 'nnetherr@luxuria',
+                        label: 'nnetherr@acedia',
                         className: 'txt-smaller bar-wintitle-bottomdesc txt',
                     }),
                 ]
