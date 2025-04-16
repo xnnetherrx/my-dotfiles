@@ -6,6 +6,11 @@ NNETHERR's HYPRLAND DOTFILES
 
 CHANGELOG:
 
+Version 1.1 (v1.1 - 4/16/2025)
+  - updated for current version of Hyprland
+  - updated for current version of end4's dotfiles
+  - added seconds to clock
+
 Version 1.0 (v1.0 - 12/11/2024)
   - removed current window information, replaced w/ basic system info
   - removed media info widget
@@ -17,4 +22,4 @@ Version 1.0 (v1.0 - 12/11/2024)
   - forced weather widget to always show
   - added transparency for certain applications
   - added transparency for AGS elements
-  - custom Hyprlock & Hypridle configuration (shows temp screenshot of desktop before locking as lockscreen wallpaper)
+  - custom Hyprlock & Hypridle configuration
