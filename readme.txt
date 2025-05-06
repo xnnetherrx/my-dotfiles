@@ -6,6 +6,11 @@ NNETHERR's HYPRLAND DOTFILES
 
 CHANGELOG:
 
+Version 1.2 (v1.2 - 5/6/25)
+  - switched from using 'mc' file manager to 'superfile'
+  - updated for current version of Hyprland
+  - updated custom Hyprlock configuration
+
 Version 1.1 (v1.1 - 4/16/2025)
   - updated for current version of Hyprland
   - updated for current version of end4's dotfiles
